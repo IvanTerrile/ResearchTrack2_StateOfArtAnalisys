@@ -1,0 +1,15 @@
+Tema: Analisi dello stato del topic "Personalità sintetiche per robot sociali"
+
+Possibili domande di ricerca o ipotesi connesse ai paper selezionati:
+
+1 In che modo l'agreeableness del robot influisce sull'interazione e l'engagement dell'utente?
+2 Come possono i modelli di transizione di umore e personalità contribuire alla generazione di espressioni emotive dei robot?
+3 Qual è il ruolo della personalità nell'interazione tra umani e robot?
+4 È possibile che la comunicazione con robot sociali influenzi lo sviluppo dell'empatia nei bambini? Sintesi delle migliori evidenze disponibili.
+5 Quali sono gli effetti dell'altezza del tono della voce, dell'umorismo e dell'empatia nella percezione e nell'attrattività dei robot sociali?
+6 In che modo le caratteristiche umane e robot influenzano l'accettazione dei robot sociali?
+7 Quali strategie cognitive-sociali di recupero influenzano l'apprezzamento, le capacità e la fiducia nei robot sociali?
+8 Qual è il ruolo dei fattori di personalità e dell'empatia nell'accettazione e nelle performance di un robot sociale per valutazioni psicometriche?
+9 In che modo lo stile di interazione dei robot sociali influisce sulle performance cognitive degli utenti, sull'accettazione e sui comportamenti di non conformità?
+
+Queste domande o ipotesi possono fungere da filo conduttore per l'analisi dello stato del topic delle personalità sintetiche per robot sociali, consentendo di esplorare diversi aspetti dell'interazione tra umani e robot, l'impatto sull'utente e le implicazioni per lo sviluppo di robot socialmente accettabili e coinvolgenti.
