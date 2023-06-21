@@ -13,3 +13,5 @@ Possibili domande di ricerca o ipotesi connesse ai paper selezionati:
 9 In che modo lo stile di interazione dei robot sociali influisce sulle performance cognitive degli utenti, sull'accettazione e sui comportamenti di non conformità?
 
 Queste domande o ipotesi possono fungere da filo conduttore per l'analisi dello stato del topic delle personalità sintetiche per robot sociali, consentendo di esplorare diversi aspetti dell'interazione tra umani e robot, l'impatto sull'utente e le implicazioni per lo sviluppo di robot socialmente accettabili e coinvolgenti.
+
+TESI POSSIBILE DA USARE COME INIZIO:  investigare come l'accettazione dei robot sociali e la percezione di un robot possano essere influenzate sia dalle caratteristiche dell'utente che dagli attributi del robot.
